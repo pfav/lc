@@ -1,8 +1,6 @@
 ## λ calculus interpreter (wip)
 
-very simple lambda calculus interpreter to play with.   
-
-![happy lambda](https://i.giphy.com/media/BSx6mzbW1ew7K/giphy.gif)
+very simple lambda calculus interpreter to play with. 
 
 
 ### working
